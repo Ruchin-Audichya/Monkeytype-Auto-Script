@@ -19,11 +19,12 @@ Welcome to my first Python project! 🎉 This script automates typing practice o
 
 ## Installation
 
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ruchin-Audichya/Monkeytype-Auto-Script
    
-  2. Navigate to the project directory:
+2. Navigate to the project directory:
    ```bash
    cd monkeytype-automation
 
@@ -32,9 +33,11 @@ Welcome to my first Python project! 🎉 This script automates typing practice o
    pip install selenium pynput
 
 4. Download and place chromedriver in the project directory, or specify its path in the script.
+
 5. Update the chromedriver path in the script
 ```python
    chrome_service = Service(executable_path='path/to/chromedriver')
+
 6. Run the script: Enjoy
 
 Contributing
@@ -50,4 +53,7 @@ BeautifulSoup Documentation for parsing HTML.
 pynput Documentation for simulating keyboard input.
 
 
+
+
+      
 
