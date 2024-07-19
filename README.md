@@ -29,13 +29,14 @@ Welcome to my first Python project! 🎉 This script automates typing practice o
    cd monkeytype-automation
 
 3. Install the required packages:
-```bash
-   pip install selenium pynput
+bash
+    pip install selenium pynput
+
 
 4. Download and place chromedriver in the project directory, or specify its path in the script.
 
 5. Update the chromedriver path in the script
-```python
+``python
    chrome_service = Service(executable_path='path/to/chromedriver')
 
 6. Run the script: Enjoy
@@ -49,10 +50,6 @@ Feel free to contact :- ruchinaudichya09@gmail.com
 Acknowledgments
 Monkeytype for providing the typing practice platform.
 Selenium Documentation for automation guidance.
-BeautifulSoup Documentation for parsing HTML.
-pynput Documentation for simulating keyboard input.
-
-
 
 
       
